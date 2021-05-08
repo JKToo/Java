@@ -1,3 +1,4 @@
+/*
 Write a class named Employee that has the following fields:
 • name. The name field references a String object that holds the employee's name.
 • idNumber. The idNumber is an int variable that holds the employee's ID) number.
@@ -21,7 +22,7 @@ Once you have written the class, write a separate program that creates three Emp
       
 The program should store this data in the three objects and then display the data for each employee on the screen
 
-____________________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________________*/
 
 import java.util.Scanner;
 
