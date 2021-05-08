@@ -1,4 +1,4 @@
-Write a class named car that has the following fields:
+/*Write a class named car that has the following fields:
 • year Model. The year Model field is an int that holds the car's year model. 
 • make. The make field references a String object that holds the make of the car. 
 • speed. The speed field is an int that holds the car's current speed
@@ -14,7 +14,7 @@ After each call to the accelerate method, get the current speed of the car and d
  five times. After each call to the brake method, get the current speed of the car and display it.
 
 
-_________________________________________________________________________________________________________________________
+_________________________________________________________________________________________________________________________*/
 
 public class Car
 {
