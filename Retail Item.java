@@ -1,4 +1,4 @@
-Write a class named Retail ltem that holds data about an item in a retail Mine.
+/*Write a class named Retail ltem that holds data about an item in a retail Mine.
 The class should have the following fields: • description. The description field references a String object that holds a brief 
 description of the item. 
 • unitsOnHand. The unitsOnHand field is an int variable that holds the number of units currently in inventory. 
@@ -11,7 +11,7 @@ Item 1 Jacket , 12 (Units on Hand), 59.95 (Price)
 Item 2 Designer Jeans, 40 (UOH), 34.95 (Price)
 Item 3 Shirt, 20, 24.95
 
-____________________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________________*/
 public class RetailTest
 {
    public static void main (String [] args)
