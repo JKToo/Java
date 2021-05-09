@@ -1,3 +1,4 @@
+/*
 A software company sells a package that retails for $99. Quantit> discounts arc given according to the following tahlc: Quantity
 Discount 10-19 20-49 50-99 100 or more
 20% 30% 40% 50%
@@ -7,7 +8,7 @@ Write a program that asks the user to enter the number of packages purchased. Th
  the
 purchase after the discount
 _____________________________________________________________________________________________________________________________________
-
+*/
 
 import java.util.Scanner;
 
